@@ -2,7 +2,7 @@
 ## App de recursos para aprendizaje
 - [Icono](https://github.com/PaoRauda/ListaRecursosAprendizaje/blob/master/ListaAprendizaje_Icon.png)
 - [Documento](https://github.com/PaoRauda/ListaRecursosAprendizaje/blob/master/Desafio3_DSM.pdf)
-- 
+
 ### Estudiante:
 - Paola Fernanda Ramirez Rauda RR232015
 
