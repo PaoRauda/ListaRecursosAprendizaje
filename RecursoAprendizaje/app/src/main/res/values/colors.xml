@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores Neutros -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#B0BEC5</color>
+
+    <!-- Colores Principales -->
+    <color name="teal">#00897B</color>
+    <color name="teal_light">#4DB6AC</color>
+    <color name="teal_dark">#005B5C</color>
+
+    <!-- Colores de Énfasis -->
+    <color name="orange_light">#FFB74D</color>
+    <color name="yellow_light">#FFE082</color>
+</resources>

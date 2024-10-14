@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecursoAprendizaje</string>
+
+    <!-- STRINGS activity_crear_recurso.xml -->
+    <string name="title_activity_crear_recurso">Agregar Nuevo Recurso</string>
+    <string name="editTextName_activity_crear_recurso">Título</string>
+    <string name="editTextType_activity_crear_recurso">Tipo de recurso</string>
+    <string name="editTextUrl_activity_crear_recurso">URL del recurso</string>
+    <string name="editTextDescription_activity_crear_recurso">Descripción</string>
+    <string name="btnGuardar_activity_crear_recurso">Guardar</string>
+    <string name="nameEditTextnombre_activity_actualizar_recurso">Título</string>
+    <string name="typeEditText_activity_actualizar_recurso">Tipo</string>
+    <string name="urlEditText_activity_actualizar_recurso">URL</string>
+    <string name="descriptionEditText_activity_actualizar_recurso">Descripción</string>
+    <string name="actualizarButton_activity_actualizar_recurso">Actualizar</string>
+    <string name="buttonBuscar">Buscar</string>
+    <string name="buttonMostrarTodos">Mostrar Todos</string>
+    <string name="editTextResourceId">Ingrese el ID del recurso</string>
+    <string name="fab_agregar">Agregar recurso</string>
+</resources>

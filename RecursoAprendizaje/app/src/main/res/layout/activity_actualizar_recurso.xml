@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <EditText
+        android:id="@+id/nameEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nameEditTextnombre_activity_actualizar_recurso"
+        android:textColor="@color/black"
+    android:backgroundTint="@color/gray_dark" />
+
+    <EditText
+        android:id="@+id/typeEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/typeEditText_activity_actualizar_recurso"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark" />
+
+    <EditText
+        android:id="@+id/urlEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/urlEditText_activity_actualizar_recurso"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark" />
+
+    <EditText
+        android:id="@+id/descriptionEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/descriptionEditText_activity_actualizar_recurso"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark" />
+
+    <Button
+        android:id="@+id/actualizarButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/actualizarButton_activity_actualizar_recurso"
+        android:backgroundTint="@color/orange_light"
+    android:textColor="@color/white" />
+
+</LinearLayout>

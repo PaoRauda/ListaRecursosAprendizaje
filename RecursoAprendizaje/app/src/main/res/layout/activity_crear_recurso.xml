@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_crear_recurso"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/black" /> <!-- Color negro para el texto -->
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/editTextName_activity_crear_recurso"
+        android:inputType="text"
+        android:textColor="@color/black"
+     android:backgroundTint="@color/gray_dark"/>
+
+    <EditText
+        android:id="@+id/editTextType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/editTextType_activity_crear_recurso"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark"/>
+
+    <EditText
+        android:id="@+id/editTextUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/editTextUrl_activity_crear_recurso"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark"/>
+
+    <EditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/editTextDescription_activity_crear_recurso"
+        android:inputType="text"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/gray_dark"/>
+
+    <Button
+        android:id="@+id/btnGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGuardar_activity_crear_recurso"
+        android:backgroundTint="@color/orange_light"
+    android:textColor="@color/white" />
+
+</LinearLayout>
